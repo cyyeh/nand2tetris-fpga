@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Sat Jul  4 09:43:19 2020
+[*]
+[dumpfile] "/home/micha/git/gitlab/nand2tetris/LCD/LCD_tb.vcd"
+[dumpfile_mtime] "Sat Jul  4 09:42:54 2020"
+[dumpfile_size] 111809
+[savefile] "/home/micha/git/gitlab/nand2tetris/LCD/LCD_tb.gtkw"
+[timestart] 0
+[size] 1280 703
+[pos] -1 -1
+*-4.886099 36 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] LCD_tb.
+[sst_width] 238
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 156
+@28
+LCD_tb.clk
+@200
+-INPUT
+@22
+LCD_tb.in[15:0]
+@28
+LCD_tb.loadC
+LCD_tb.loadD8
+LCD_tb.loadD16
+@200
+-OUTPUT
+@28
+LCD_tb.LCD.dcn
+LCD_tb.LCD.mosi
+LCD_tb.LCD.sck
+@22
+LCD_tb.LCD.out[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
